@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">androidquiz</string>
+    <string name="format_min_sec">%d min, %d sec</string>
 </resources>
